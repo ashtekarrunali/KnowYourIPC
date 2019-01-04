@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KnowUR IPC</string>
+    <string name="btn_enter">Enter</string>
+    <string name="knowuripc_txt">The Indian Penel Code(IPC) is the
+        main criminal code of india. It is a
+        comprehensive code intended to
+        cover all substantive aspects of criminal law.
+        Updated to include till the
+        Criminal Law(Amendment) Act,2013.\n\n
+        While the material contained in this
+        App has been formulated with all
+        due care,Mobicloud Technologies Pvt.Ltd.
+        does not warrant or represent that the
+        content is free from errors or omission.
+        Please send feedback to
+        info@mobicloudtechnologies.com</string>
+
+
+    <!--<string name="app_name">KnowUR IPC</string>-->
+    <string name="info">Enter</string>
+    <string name="about_us_txt">Mobicloud Technologies is a global
+        interactive entertainment software company.
+        It develops, aggregates and distributes
+        mobile games,develop application and website
+        for pc,mobile,ipad,iphoneand web.Our experties is in
+        developing highly engaging games and informative Apps.
+        \n\n\n Website:\n www.mobicloudtechnologies.com\n\n\nContact Us:\ninfo@mobicloudtechnologies.com</string>
+
+    <string name="bt_lang">English!</string>
+    <string name="backicon">English!</string>
+
+</resources>

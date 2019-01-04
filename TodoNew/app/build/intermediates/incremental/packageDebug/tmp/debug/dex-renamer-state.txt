@@ -1,0 +1,4 @@
+#Wed Jan 02 23:06:50 IST 2019
+base.0=E\:\\Adroidworkspace\\TodoNew-20190101T162436Z-001\\TodoNew\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

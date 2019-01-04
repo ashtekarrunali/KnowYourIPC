@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/toolbar"
+        android:layout_alignParentTop="true"
+        android:background="#3F51B5"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:titleTextColor="@color/colorWhite"
+        style="@style/MyCustomTheme">
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutUs"
+        android:layout_gravity="right"
+        android:src="@drawable/info"
+        android:layout_margin="10dp"
+        android:text="@string/info"
+        android:onClick="info5"
+        android:layout_marginRight="@dimen/btn_margin"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/help"
+        android:layout_gravity="right"
+        android:src="@drawable/help"
+        android:layout_margin="10dp"
+        android:text="help"
+        android:onClick="que5"
+
+        android:layout_marginRight="@dimen/btn_margin"/>
+
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/star1"
+        android:src="@drawable/fav_icon"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/star"
+        android:src="@drawable/btn_star_big_off"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"/>
+
+
+    <ImageView
+        android:id="@+id/setting"
+        android:src="@drawable/setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="setting"
+        android:onClick="setting5"
+        android:layout_gravity="right"
+        android:layout_marginRight="@dimen/btn_margin"
+        />
+<!--
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/search"
+        android:src="@drawable/ic_action_action_search"
+        android:onClick="search5"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"
+        />-->
+
+
+
+
+
+
+</android.support.v7.widget.Toolbar>

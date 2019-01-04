@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jan 02 23:06:52 IST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Adroidworkspace\\TodoNew-20190101T162436Z-001\\TodoNew\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
